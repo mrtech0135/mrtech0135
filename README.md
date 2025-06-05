@@ -3,6 +3,12 @@
 Welcome to my GitHub profile!  
 I'm a passionate **Software Engineer** who loves building awesome things and collaborating with the open-source community.
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Pkdriller&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+
 ---
 
 ## 🚀 About Me
